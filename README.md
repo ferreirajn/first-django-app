@@ -1,4 +1,4 @@
-## Tutorial Django Repository
+## Tutorial Django Repository 
 Este repositório foi criado como parte de um tutorial de Django [desse site](https://docs.djangoproject.com/en/3.2/intro/tutorial01/). 
 Aqui você encontrará o código-fonte e os arquivos relacionados ao projeto que desenvolvi durante o tutorial. Leia as informações abaixo para obter mais detalhes sobre o projeto.
 
